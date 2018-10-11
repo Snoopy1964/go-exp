@@ -1,6 +1,7 @@
 # VS Code stuff
 .vscode*
 debug
+*.code-workspace
 
 
 # Binaries for programs and plugins
